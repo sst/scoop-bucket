@@ -1,26 +1,26 @@
 {
-    "version": "0.0.190",
+    "version": "0.0.191",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/sst/ion/releases/download/v0.0.190/sst-windows-i386.zip",
+            "url": "https://github.com/sst/ion/releases/download/v0.0.191/sst-windows-i386.zip",
             "bin": [
                 "sst.exe"
             ],
-            "hash": "b6e3cfa3403de905959798daeb65566085ae7d6d79300f16209a2688b6a3792a"
+            "hash": "4d232be6bb12b9c8a5e462c332e68ea791bebb3d7a5eb04ef662d9ac8b0d485f"
         },
         "64bit": {
-            "url": "https://github.com/sst/ion/releases/download/v0.0.190/sst-windows-x86_64.zip",
+            "url": "https://github.com/sst/ion/releases/download/v0.0.191/sst-windows-x86_64.zip",
             "bin": [
                 "sst.exe"
             ],
-            "hash": "467e47d476ab4b95ed5af0f363c6872d670a6d8c3abf1982b26153d288cd871e"
+            "hash": "84a65071f0145b506aef0ed9155f5c71d3bdcd7c6c80776d28ef3bb4a5b20014"
         },
         "arm64": {
-            "url": "https://github.com/sst/ion/releases/download/v0.0.190/sst-windows-arm64.zip",
+            "url": "https://github.com/sst/ion/releases/download/v0.0.191/sst-windows-arm64.zip",
             "bin": [
                 "sst.exe"
             ],
-            "hash": "d6792eb4a6378bc38c1031ae7a761d6cb326a16f4c3bc6f910697e35f7bf9f94"
+            "hash": "268e346436adf67db23e187c3df9d78aad43f0f790909e1b8d65079ac3f927eb"
         }
     },
     "homepage": "https://github.com/sst/ion",
